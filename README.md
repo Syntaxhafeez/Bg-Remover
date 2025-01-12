@@ -28,7 +28,9 @@ Try out the live app here: [Bg-Remover](https://bg-remover-frontend-eta.vercel.a
 
 ## Screenshots 📸  
 
- 
+![Screenshot 2025-01-13 003154](https://github.com/user-attachments/assets/a84965fb-ccb0-4a50-b1d5-3ee59cb8aedf)
+![Screenshot 2025-01-13 003218](https://github.com/user-attachments/assets/a544fec3-e1ee-4f7f-a88b-900675c7aa9f)
+
 
 ## Contact 📬  
 Connect with me on Instagram: [@syntaxhafeez](https://www.instagram.com/syntaxhafeez)  
